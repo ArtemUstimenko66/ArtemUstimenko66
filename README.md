@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
@@ -70,6 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Artem Ustimenko/Artem Ustimenko/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Artem Ustimenko/ArtemUstimenko66/output/snake.svg" alt="Snake animation" />
 
 ###
