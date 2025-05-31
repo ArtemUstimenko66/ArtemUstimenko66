@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ArtemUstimenko66/ArtemUstimenko66/output/dist/snake.svg" alt="Snake animation"/>
+![Snake animation](https://raw.githubusercontent.com/ArtemUstimenko66/ArtemUstimenko66/output/github-contribution-grid-snake.svg)
 
 ###
