@@ -69,6 +69,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/ArtemUstimenko66/ArtemUstimenko66/output/github-contribution-grid-snake.svg)
-
 ###
